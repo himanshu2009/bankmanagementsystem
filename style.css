@@ -1,0 +1,44 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.container{
+    max-width: 80%;
+    background-color: rgb(255, 193, 132);
+    padding: 34px;
+    margin: auto;
+}
+
+
+
+.container h1, h2, a{
+    text-align: center;
+}
+
+.btn{
+    font-size: 16px;
+    display: inline-block;
+    color: white;
+    background: rgb(49, 85, 135);
+    padding: 3px 7px;
+    border: 2px solid white;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
