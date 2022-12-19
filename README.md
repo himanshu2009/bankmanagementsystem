@@ -1,5 +1,5 @@
 # bankmanagementsystem
-This is website in which customer can open bank account,send money to other ,see transaction details etc
+This is website in which customer can open bank account,send money to other ,see transaction details etc whereas admin give approval to new accounts add money to their account delete account 
 
 
 #output
