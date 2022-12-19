@@ -11,3 +11,10 @@ This is website in which customer can open bank account,send money to other ,see
 ![Screenshot from 2022-12-19 11-09-02](https://user-images.githubusercontent.com/80587372/208377980-8bfffaca-4913-48ac-9647-67ee70cda8eb.png)
 
 ![Screenshot from 2022-12-19 11-09-16](https://user-images.githubusercontent.com/80587372/208378369-909fc4b2-6bda-4d22-87a0-a2d8c170fe9b.png)
+
+
+
+![Screenshot from 2022-12-19 14-13-51](https://user-images.githubusercontent.com/80587372/208384720-5b69cb1f-813b-4207-86e9-b2817d9c9fc2.png)
+
+
+![Screenshot from 2022-12-19 14-13-59](https://user-images.githubusercontent.com/80587372/208384756-31f69321-26ef-4e56-bc3d-46b6976e17df.png)
