@@ -16,7 +16,7 @@
 </head>
 <style>
     table{
-        font-size=19px;
+        font-size=20px;
     }
 </style>
 <body>
